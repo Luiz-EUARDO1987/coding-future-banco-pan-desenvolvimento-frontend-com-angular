@@ -1,0 +1,57 @@
+body
+{
+    background-color: aquamarine;
+    padding: 5%;
+    border-color: black;
+    margin: 1%;
+    border-top-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+}
+.subTitle, .postTitle {
+    color: blue;
+    border: 10px,solid, green;
+    padding: 10%;
+    background-color: black;
+    margin: 10px;
+}
+.postTitle{
+    font-size: 50px;
+    font-style: italic;
+}
+.Paragrafo{
+    text-align: justify;
+    color:brown;
+    font-size: 150%;
+    font-style: italic;
+    background-color: aqua;
+    padding: 3%;
+    
+    border: 3px;
+    border: green;
+    border: dashed;
+}
+#title{
+    font-size: 300%;
+    font-style: italic;
+    color: chartreuse;
+    background-color: blue;
+    padding: 3%;
+    border-top-style: dashed;
+    border-left-style: solid;
+    border-right-style: dashed;
+    border-bottom-style: double;
+    border-radius: 10%;
+    border-right-color: brown;
+    border-top-color: black;
+}
+.Post{
+    background-color: aliceblue;
+    padding: 1%;
+    border-color: black;
+    margin: 10%,;
+    border-width: 3px;
+    border-style: solid;
+
+}
